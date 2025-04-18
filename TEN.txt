@@ -1,0 +1,8 @@
+project-folder/
+├── index.html
+└── images/
+    ├── c:\Users\ADMIN\Downloads\OneDrive\Hình ảnh\Camera Roll\5ee8fb85-9ff4-49bb-91ee-4329945b3109.jpg
+    ├── c:\Users\ADMIN\Downloads\OneDrive\Hình ảnh\Camera Roll\6bd84b28-1975-4b9f-ae48-e39c347e0954.jpg
+    ├── c:\Users\ADMIN\Downloads\OneDrive\Hình ảnh\Camera Roll\79c0a5a4-44d6-4ba4-98b9-f8d3bcc89e3c.jpg
+    ├── c:\Users\ADMIN\Downloads\OneDrive\Hình ảnh\Camera Roll\c26c1e47-1f7d-455b-b241-6ee18f09b3ea.jpg
+    └── c:\Users\ADMIN\Downloads\OneDrive\Hình ảnh\Camera Roll\tải xuống (1).jpg
